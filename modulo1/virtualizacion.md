@@ -34,4 +34,4 @@ Como desventajas podríamos señalar:
 * Al software de virtualización se le suele llamar **Hipervisor**.
 * Desde 2005, Intel y AMD han añadido soporte hardware para la virtualización: **Intel Virtualization Technology (VT) y AMD Virtualization (AMD-V)**, y permiten a los hipervisores un rendimiento mayor en su labor de virtualizar.
 
-* [Tipos de virtualización](modulo1/tipos.md)
+-> [Tipos de virtualización](modulo1/tipos.md)
